@@ -1,0 +1,27 @@
+.nav{
+    list-style-type: none;
+    margin: 7px;
+    padding: 8px;
+    overflow: hidden;
+    background-color: #ED6F23;
+    text-align: right;
+
+  }
+  img{
+    margin-right: 1400px !important; 
+    margin-top: 6px;
+  }
+  
+  li {
+    display: inline-block;
+    flex-direction: row;
+    color: blue;
+    font-size:18px;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+.slide{
+    width: 100%;
+}
+  
